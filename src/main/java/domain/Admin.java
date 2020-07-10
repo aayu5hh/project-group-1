@@ -1,4 +1,4 @@
 package domain;
 
-public class Admin {
+public class Admin extends User {
 }
